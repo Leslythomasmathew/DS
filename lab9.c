@@ -30,7 +30,7 @@ char pop()
 
 char peek() 
 {
-    if (top == -1) 
+    if (top == -1)  
     {
         return '\0';
     } else {
